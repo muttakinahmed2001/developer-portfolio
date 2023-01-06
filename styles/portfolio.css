@@ -39,7 +39,7 @@
  nav {
      display: flex;
      justify-content: space-between;
-     margin: 50px 200px;
+     padding: 50px 200px;
  }
 
  nav ul {
@@ -211,4 +211,8 @@ margin-bottom: 30px;}
 }
 input{
     height: 64px;
+}
+.section-description{
+    color: #474747;
+
 }
